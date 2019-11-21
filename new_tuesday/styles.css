@@ -10,21 +10,44 @@ h1{color: #AD5153;
 
 
 ul {color: #000000;
-font-family: allerta;
+font-family: "allerta";
 font-size: 20px; 
 font-weight: 100
 
 }
 
-h2{color: #C18384;
-font-family: acme;
-font-size: 40px;
-font-weigh: 100
+h2{color: #000000;
+font-family: "alex-brush";
+font-size: 35px;	
+font-weight: 50;
+background-color: #F7D4D5
+	
+}
+
+
+h3{color: #000000;
+font-family: "alex-brush";
+font-size: 35px;
+font-weight: 50;
+background-color: #F7D4D5;
+	
+}
+
+
+h4{color: #000000;
+font-family: "alex-brush";
+font-size: 35px;
+font-weight: 50;
+background-color: #F7D4D5;
+
+
 }
 
 
 ul {
-  list-style-type: none;
+  list-style-type:  
+	  
+	  none;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -46,5 +69,21 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
+
 } 
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+
 
